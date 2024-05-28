@@ -1,1 +1,1 @@
-# loan-prediction
+# CodeClause_Internship
